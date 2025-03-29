@@ -14,7 +14,16 @@ Personal links of [Adobe documentation](https://experienceleague.adobe.com/en/do
     * TODO:
   * TODO:
 * Experience Platform
-  * TODO:
+  * Experience Platform
+    * TODO:
+  * Data Collection
+    * Guides
+      * [here](https://github.com/dancer1325/adobe-experience-platform.en)
+      * [Client SDK](https://github.com/dancer1325/adobe-aep-mobile-sdkdocs)
+      * [APIs](https://github.com/dancer1325/adobe-data-collection-apis.git)
+    * [Tutorial](https://github.com/dancer1325/adobe-platform-learn.en.git)
+    * [Developer resources](https://github.com/dancer1325/adobe-experience-platform.en)
+  * [Digital Experience Blueprints](https://github.com/dancer1325/blueprints-learn.en)
 * Document Cloud
   * TODO:
 * Creative Cloud for Enterprise
